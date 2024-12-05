@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <title>PLANTILLA | WEB 1</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
+  <meta property="og:title" content="">
+  <meta property="og:image" content="">
+  <meta property="og:url" content="">
+  <meta property="og:site_name" content="">
+  <meta property="og:description" content="">
+
+  <!-- Twitter Cards integration: https://dev.twitter.com/cards/  -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="">
+  <meta name="twitter:title" content="">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:image" content="">
+
+  <!-- Place your favicon.ico and apple-touch-icon.png in the template root directory -->
+  <link href="favicon.ico" rel="shortcut icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate-css/animate.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+  <div id="preloader"></div>
+
+  <!--==========================
+  Hero Section
+  ============================-->
+  <section id="hero">
+    <div class="hero-container">
+      <div class="wow fadeIn">
+
+        <div class="hero-logo">
+          <img class="" src="img/logo.png" alt="ProOnliPc">
+        </div>
+
+        <h1>Bangtan Sonyeondan</h1>
+        <h2>Big Hit <span class="rotating">K-POP, BTS, ARMY</span></h2>
+        <div class="actions">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Sección de encabezado
+  ============================-->
+  <header id="header">
+    <div class="container">
+      <div id="logo" class="pull-left">
+        <a href="#hero"><img src="img/logo.png" alt="" title="" /></img></a>
+        <!-- Descomenta abajo si prefieres usar una imagen de texto -->
+        <!--<h1><a href="#hero">Encabezado 1</a></h1>-->
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="#hero">Inicio</a></li>
+          <li><a href="#about">¿Por que BTS?</a></li>
+          <li><a href="#services">Integrantes</a></li>
+          <li><a href="#portfolio">Albums</a></li>
+          <li><a href="#testimonials">Opinión</a></li>
+          <li><a href="#team">Colaboraciones</a></li>
+        </ul>
+      </nav>
+      <!-- #nav-menu-container -->
+    </div>
+  </header>
+  <!-- #header -->
+
+  <!--==========================
+  About Section
+  ============================-->
+  <section id="about">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">¿Por que BTS?</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">BTS es la abrviatura de Bangtan Sonyeondan , una banda de K-pop surcoreana que significa "chicos a prueba de balas". En 2019, el gupo cambió el significado de su nombre a "Beyond the Scene", que en español se traduce como "más allá de la escena".</p>
+        </div>
+      </div>
+    </div>
+    <div class="container about-container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-6 col-md-push-6 about-content">
+          <h2 class="about-title">Historia</h2>
+          <p class="about-text">
+            La mayoría de las grandes bandas empiezan sus carreras de manera modesta. Éste fue es el caso de BTS, en 2010 la compañía  discográfica surcoreana Big Hit Entertainment realizó audiciones para formar un nuevo grupo de música que combinara los géneros del rap y el pop. Uno de los primeros en pasar dichas audiciones fue el rapero Kim Namjoon, mejor conocido como RM.
+          </p>
+          <p class="about-text">
+            La capacidad vocal de RM dejó impresionado al dueño de Big Hit Entertaiment, Bang Si-j-hyuk, ya que, además de cantar, era un ávido compositor y bailarín. Tras un año de exhaustiva búsqueda, y con la idea de comercializar el K-pop por todo el mundo, los cantantes Jin, Suga, J-hope, Jimin, V y Jungkook se unieron a RM y formaron así la súper boy band BTS. El grupo debuta el 13 de junio de 2013 con la canción "No More Dream".   
+          </p>
+          <p class="about-text">
+            Para 2017, BTS empieza a ser conocido a nivel internacional como el principal promotor de la ola coreana, especialmente en el mercado estadounidense; fue la primera banda coreana en recibir las certificaciones de oro y de platino por parte de la RIAA con los sencillos "DNA" y "MIC Drop", respectivamente.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Services Section
+  ============================-->
+  <section id="services">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Integrantes</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">"No importa cuántas heridas tengamos, seguiremos corriendo hacia adelante"-"Run"</p>
+         </div>
+       </div>
+        <div class="col-md-4 service-item">
+          <h4 class="service-title"><a href="">Kim Nam-joon</a></h4>
+          <p class="service-description">Kim Nam-joon más conocido por su nombre artístico RM, nació el 12 de septiembre de 1994 (edad 30 años) Sangdo-dong, Seul, Corea del Sur, es un rapero, compositor y productor surcoreano. Antes de su debut, era un rapero underground el cual usaba el nombre artístico "Runch Randa"; lanzó varias canciones y colaboró con el conocido rapero Zico. Era parte del grupo surcoreano de hip hop underground Daenamhyup. El grupo tuvo actividad desde 2009 hasta 2013, cuando RM dejó su participación en el grupo para concentrarse en BTS. Es el líder del grupo BTS. En 2015, lanzó su primer mixtape RM.</p>
+        </div>
+        <div class="col-md-4 service-item">
+          <h4 class="service-title"><a href="">Kim Seok-jin</a></h4>
+          <p class="service-description">Kim Seok-jin más conocido por su nombre artístico Jin, nació el 4 de diciembre de 1992 (edad 32 años), Anyang, Corea del Sur, es un cantante, vocalista y bailarín surcoreano y mide 1.79 m. Desde 2013 es miembro del grupo BTS bajo la compañía Big Hit Entertaiment. Jin ha escrito y lanzado tres canciones en solitario con BTS: "Awake" (2016), "Epiphany" (2018) y "Moon" (2020). También apareció en la banda sonora del drama Hawang (2016) junto a su compañero de grupo V. El 28 de octubre del 2022 presentó su último sencillo "Astronaut" antes de unirse al servicio militar.
+         <a href="https://www.instagram.com/jin"><i class="fa fa-instagram"></i></a></p>
+        </div>
+        <div class="col-md-4 service-item">
+          <h4 class="service-title"><a href="">Min Yoon-gi</a></h4>
+          <p class="service-description">Min Yoon-gi más conocido por sus nombres artísticos Suga y Agust´D, nació el 9 de marzo de 1993 (edad 31 años), Taejeon-dong, Corea del Sur, es un rapero, compositor y productor  surcoreano y mide 1.74 m. En 2010, formaba parte de un grupo underground de rap en su ciudad natal llamado D-Town. Comenzó su notoriedad con el grupo BTS en 2013, bajo la compañía Big Hit Entertaiment. El 15 de agosto de 2016 publicó su primer mixtape debut en solitario titulado Agust´D, de la cual salieron dos vídeos musicales para lo temas "Agust D" y "Give it to Me".
+          <a href="https://www.instagram.com/agustd"><i class="fa fa-instagram"></i></a></p>
+        </div>
+        <div class="col-md-4 service-item">
+          <h4 class="service-title"><a href="">Jung Ho-Seok</a></h4>
+          <p class="service-description">Jung Ho-Seok más conocido por su nombre artístico J-Hope, nació el 18 de febrero de 1994 (edad 30 años), Ilgok-dong, Gwangju, Corea del Sur, es un rapero, compositor, cantante, bailarín, coreógrafo, modelo y productor surcoreano, mide 1.79 m. En 2013 debutó como miembro del grupo BTS bajo la companía Big Hit Entertaiment. J-Hope lanzó su primer mixtape, Hope World, el 2 de marzo de 2018. El 27 de septiembre de 2019 publicó la canción "Chicken Noodle Soup", que contó con la participación de la cantante estadounidense Becky G.
+          <a href="https://www.instagram.com/uarmyhope"><i class="fa fa-instagram"></i></a></p>
+        </div>
+        <div class="col-md-4 service-item">
+          <h4 class="service-title"><a href="">Park Ji-min</a></h4>
+          <p class="service-description">Park Ji-min más conocido por su nombre artístico Jimin, nació el 13 de octubre de 1995 (edad 29 años), Hoedong-dong, Busan, Corea del Sur, es un cantante, vocalista y bailarín surcoreano y mide 1.74 m. En 2013 debutó como integrante del grupo BTS bajo la compañía Big Hit Entertaiment. Jimin ha lanzado tres canciones en solitario bajo el nombre de BTS "Lie" en 2016, "Serendipity" en 2017 y "Filter" en 2020, que han entrado a la lista Gaon Digital Chart en Corea del Sur. En 2018 publicó su primera canción como solista, titulada "Promise", mientras que en 2022 colaboró junto a Ha Sung-woo en un tema para la banda sonora del drama Our Blues.
+          <a href="https://www.instagram.com/j.m"><i class="fa fa-instagram"></i></a></p>
+        </div>
+        <div class="col-md-4 service-item">
+          <h4 class="service-title"><a href="">Kim Tae-hyung</a></h4>
+          <p class="service-description">Kim Tae-hyung más conocido por su nombre artístico V, nació el 30 de diciembre de 1995 (edad 28 años), Bisan-dong, Daegu, Corea del Sur, es  un cantante, vocalista, bailarín, actor y modelo surcoreano y mide 1.79 m. Desde 2013 es miembro del grupo BTS bajo la compañía Big Hit Entertaiment. El 8 de septiembre  de 2023, tuvo su gran y esperado debut en solitario, con el álbum "Layover" y su tercer sencillo del mismo álbum "Slow Dancing".
+          <a href="https://www.instagram.com/thv"><i class="fa fa-instagram"></i></a></p>
+        </div>
+        <div class="col-md-4 service-item">
+          <h4 class="service-title"><a href="">Jeon Jung-kook</a></h4>
+          <p class="service-description">Jeon Jung-kook más conocido por su nombre artístico Jungkook, nació el 1 de septiembre de 1997 (edad 27 años), Mandeok-dong, Busan, Corea del Sur, es un cantante, vocalista, el Golden Maknae y bailarín surcoreano y mide 1.77 m. Desde 2013 es miembro del grupo BTS bajo la compañía de Big Hit Entertaiment. Tiene tres canciones interpretadas en solitario, que forman parte de la discografía de BTS "Begin" en 2016, "Euphoria en 2018 y "My Time" en 2020. También grabó la canción "Stay Alive" para la banda sonora del Webtoon 7Fates: Chakho. Posteriormente, se convirtió en el primer artista surcoreano en lanzar una canción oficial para la banda sonora de la Copa Mundial de Fútbol con "Dreamers", que interpretó en la ceremonia de inauguración de la edición de 2022.</p>
+        </div>
+        <div class="col-md-4 service.item">
+          <h4 class="service-title"><a href="">A.R.M.Y</a></h4>
+          <p class="service-description">La palabra "Army" tiene varios significados: Es un acrónimo de "Adorable Representative M.C. For Youth", que en español significa "Representantes Adorables de la Juventud". También significa "ejercito" en inglés. Es el nombre del grupo de fanáticos de la banda de K-pop BTS. El nombre de "Army" se refleja el cáracter de los fanáticos de BTS, quienes actúan como una "armada" al interactuar con cada canción, vídeo y concierto de la banda.</p>
+        </div 
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Subscrbe Section
+  ============================-->
+ 
+  </section>
+
+  <!--==========================
+  Porfolio Section
+  ============================-->
+  <section id="portfolio">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Albums</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">"Vive como si fuera el último, ama como si nunca te lastimaran"-"Blood Sweat y Tears"</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-9.jpeg);" href="">
+            <div class="details">
+              <h4>Álbum: 2 COOL 4 SKOOL</h4>
+              <span>7 canciones</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-10.jpeg);" href="">
+            <div class="details">
+              <h4>Álbum: MAP OF THE SOUL : 7</h4>
+              <span>20 canciones</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-11.jpeg);" href="">
+            <div class="details">
+              <h4>Álbum: LOVE YOURSELF 'Answer'</h4>
+              <span>26 canciones</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-12.jpeg);" href="">
+            <div class="details">
+              <h4>WINGS</h4>
+              <span>15 canciones</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-13.jpeg);" href="">
+            <div class="details">
+              <h4>Proof</h4>
+              <span>35 canciones</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-14.jpeg);" href="">
+            <div class="details">
+              <h4>FACE YOURSELF</h4>
+              <span>12 canciones</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-15.jpeg);" href="">
+            <div class="details">
+              <h4>The Most Beautiful Moment in Life: Young Forever</h4>
+              <span>23 canciones</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-16.jpeg);" href="">
+            <div class="details">
+              <h4>YOU NEVER WALK ALONE</h4>
+              <span>18 canciones</span>
+            </div>
+            <a href="https://www.last.fm/es/music/BTS/+albums/">BTS ALBUMS</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Testimonials Section
+  ============================-->
+  <section id="testimonials">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Opiniones</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">"No te rindas, porque tú no estás solo"-"No More Dream"</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <div class="profile">
+            <div class="pic"><img src="img/client-3.jpeg" alt=""></div>
+            <h4>John Cena</h4>
+            <span>Luchador profesional y actor</span>
+          </div>
+        </div>
+        <div class="col-md-9">
+          <div class="quote">
+            <b><img src="img/quote_sign_left.png" alt=""></b>Me detuvo el corazón ¡QUE COOL! amo lo que esta banda ha hecho, porque ellos son super masivos y populares y han sido tan populares en todo el mundo y yo pense "OKEY DEBERIA  PROBABLEMENTE SABER DE ELLOS " y entoncescuando empecé a ver a BTS y a escuchar su música originalmente me atrajo porque hay raperos en la banda y algunas de sus canciones, introducciones y canciones del final utilizan unos muy buenos beats porque si rapean y me gusto , era genial  entonces... me empecé a interesar por la música y luego me empecé a interesar por lo que la música hablaba, amor propio, ellos hablan de no tener miedo de fallar , ellos hablan de que eres suficiente y están intentando destruir los estereotipos dificiles o incómodos, momentos que todos vivimos y hablan a una audiencia que está viviendo eso los jóvenes. <small><img src="img/quote_sign_right.png" alt=""></small>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </section>
+
+  <!--==========================
+  Team Section
+  ============================-->
+  <section id="team">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Colaboraciones</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">"Tú brillas en este mundo lleno de oscuridad"-"Lights"</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <div class="member">
+            <div class="pic"><img src="img/team-6.jpeg" alt=""></div>
+            <h4>Coldplay</h4>
+            <span>Grupos de cantantes</span>
+            <div class="social">
+              <a href="https://x.com/coldplay?sfnsn=scwspwa"><i class="fa fa-twitter"></i></a>
+              <a href="https://www.instagram.com/coldplay?igsh=MTV2NW42aDY5bTJIZg=="><i class="fa fa-instagram"></i></a>
+              <a href="https://open.spotify.com/intl-es/artist/4gzpq5DPGxSnKTe4SA8HAU"><i class="fa fa-spotify"></i></a>
+              <a href="https://youtu.be/tmM9saeLC40?si=bAbdDSzPjfre1LR7"><i class="fa fa-youtube"></i></a>
+              <a href="https://www.facebook.com/coldplay"><i class="fa fa-facebook"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="member">
+            <div class="pic"><img src="img/team-8.jpeg" alt=""></div>
+            <h4>Halsey</h4>
+            <span>Cantante</span>
+            <div class="social">
+              <a href="https://x.com/i/flow/singnup"><i class="fa fa-twitter"></i></a>
+              <a href="https://www.instagram.com/iamhalsey?igsh=ZzMxMWZqcWw0OXBp"><i class="fa fa-instagram"></i></a>
+              <a href="https://www.halseymusicstore.com/"><i class="fa fa-Official Halsey Store"></i></a>
+              <a href="https://youtu.be/osd0zm5bsSU?si=AILFnGDw1TDV5bjq"><i class="fa fa-youtube"></i></a>
+              <a href="https://www.facebook.com/halsey"><i class="fa fa-facebook"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="member">
+            <div class="pic"><img src="img/team-7.jpeg" alt=""></div>
+            <h4>Steve Aoki</h4>
+            <span>Cantante</span>
+            <div class="social">
+              <a href="https://x.com/steveaoki?utm_source=hoobe&utm_medium=social&sfnsn=scwspwa"><i class="fa fa-twitter"></i></a>
+              <a href="https://www.instagram.com/steveaoki?igsh=ZHpjcjE3bDVmeGNz"><i class="fa fa-instagram"></i></a>
+              <a href="https://youtu.be/XR7AINwTVik?si=RAUImikvuuJh-CJV"><i class="fa fa-youtube"></i></a>
+              <a href="https://www.facebook.com/steveaoki?mibextid=ZbWKwL"><i class="fa fa-facebook"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="member">
+            <div class="pic"><img src="img/team-5.jpeg" alt=""></div>
+            <h4>Lauv</h4>
+            <span>Cantante</span>
+            <div class="social">
+              <a href="https://x.com/lauvsongs"><i class="fa fa-twitter"></i></a>
+              <a href="https://www.instagram.com/lauvsongs?igsh=ODc5bzFqaTRzazVt"><i class="fa fa-instagram"></i></a> 
+              <a href="https://open.spotify.com/intl-es/album/0tIUtEy8aF9pMoCHjSN8tX"><i class="fa fa-spotify"></i></a>
+              <a href="https://youtu.be/vS0YXAfUo4k?si=8qCxduNyp4zd1iao"><i class="fa fa-youtube"></i></a>
+              <a href="https://www.facebook.com/lauvsongs?mibextid=rS40aB7S9Ucbxw6v"><i class="fa fa-facebook"></i></a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Contact Section
+  ============================-->
+ 
+  </section>
+
+  <!--==========================
+  Footer
+============================-->
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="copyright">
+            &copy; Copyright <strong>ProOnliPc Theme</strong>. All Rights Reserved
+          </div>
+          <div class="credits">
+        
+            Templates by <a href="https://youtu.be/owjVpYCmwcg?si=vKEwFBSvpgn9jrYD">youtube</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- Required JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/morphext/morphext.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/stickyjs/sticky.js"></script>
+  <script src="lib/easing/easing.js"></script>
+
+  <!-- Template Specisifc Custom Javascript File -->
+  <script src="js/custom.js"></script>
+
+  <script src="contactform/contactform.js"></script>
+
+
+</body>
+
+</html>
